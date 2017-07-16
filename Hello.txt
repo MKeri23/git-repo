@@ -2,3 +2,4 @@ cout<<"Hello,world!"<<endl;
 cout<<"Hello, everyone!"<<endl;
 cout<<"Hello!"<<endl;
 cout<<"Hello,my dear friend!"<<endl;
+cout<<"Glad to see you"<<endl;
